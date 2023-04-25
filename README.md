@@ -1,7 +1,7 @@
 ## Configuration Steps
 
 ```
-$ cd MovieGo
+$ cd Project folder
 $ npm install
 
 $ cd backend
